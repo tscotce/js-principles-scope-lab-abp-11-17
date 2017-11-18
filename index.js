@@ -1,2 +1,2 @@
 var customerName = 'bob'
-var upperCaseCustomerName = bob.toUpperCase
+var upperCaseCustomerName = customerName.toUpperCase

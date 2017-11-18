@@ -13,3 +13,4 @@ function changeLeastFavoriteCustomer (){
   leastFavoriteCustomer = 'tim'
 }
 let favoriteCustomer = 'ana'
+let favoriteCustomer = 'chris'

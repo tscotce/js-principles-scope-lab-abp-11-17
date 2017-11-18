@@ -12,7 +12,7 @@ const leastFavoriteCustomer = 'jim'
 function changeLeastFavoriteCustomer (){
   leastFavoriteCustomer = 'tim'
 }
-var favoriteCustomer = 'ana'
+const favoriteCustomer = 'ana'
 function attemptTwoFavoriteCustomers (){
   let favoriteCustomer = 'chris'
 }
